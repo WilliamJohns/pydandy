@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "pydandy"
-version = "0.0.0"
+version = "0.0.1"
 description = "A handy-dandy datastore built on top of Pydantic"
 authors = ["Will Johns <will@wcj.dev>"]
 license = "MIT"
